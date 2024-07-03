@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/32x32-connect.png</file>
+        <file>img/32x32-delete.png</file>
+        <file>img/32x32-ellipse.png</file>
+        <file>img/32x32-move.png</file>
+        <file>img/32x32-rectangle.png</file>
+        <file>img/32x32-save.png</file>
+        <file>img/32x32-triangle.png</file>
+    </qresource>
+</RCC>
